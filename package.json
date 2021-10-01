@@ -2,7 +2,7 @@
 	"name": "test",
 	"license": "GPL-2.0-only",
 	"version": "0.1.0",
-	"repository": "alanmoment/test",
+	"repository": "https://github.com/alanmoment/test.git",
 	"dependencies": {
 		"lodash": "^4.17.21",
 		"react": "^17.0.2"
