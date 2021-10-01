@@ -2,4 +2,4 @@
 
 ## License
 
-[GPL-2.0](LICENSE)
+[GPL-2.0-only](LICENSE)

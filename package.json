@@ -1,6 +1,6 @@
 {
 	"name": "test",
-	"license": "GPL-2.0",
+	"license": "GPL-2.0-only",
 	"version": "0.1.0",
 	"repository": "alanmoment/test",
 	"dependencies": {
