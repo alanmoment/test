@@ -1,6 +1,6 @@
 {
 	"name": "test",
-	"license": "GPL-2.0-only",
+	"license": "GPL-2.0",
 	"repository": "alanmoment/test",
 	"dependencies": {
 		"lodash": "^4.17.21",
